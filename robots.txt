@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /api/*
+Sitemap: https://dreamsincal-lifetime.manus.space/sitemap.xml
